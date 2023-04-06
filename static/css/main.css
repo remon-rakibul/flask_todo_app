@@ -1,0 +1,17 @@
+body {
+    margin: 0;
+    font-family: sans-serif;
+}
+
+.content {
+    text-align: center;
+}
+
+table, th, td {
+    border: 1px solid black;
+  }
+
+table {
+    margin-left: 41%;
+    margin-bottom: 2%;
+}
